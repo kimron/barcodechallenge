@@ -1,0 +1,73 @@
+
+
+
+body{
+
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+
+
+}
+
+.card{
+  background-color: hsl(0, 0%, 100%);
+  margin: 70px auto;
+
+  width: 19.7rem;
+  height: 28.1rem;
+  position: relative;
+/*  top: 6.25rem;
+  bottom: 6.25rem;
+  right: 25rem;
+  left: 25rem;*/
+  padding: 20px 0 5px 0;
+  border-radius: 4%;
+  font-family: 'Outfit', sans-serif;
+  box-shadow: 10px 10px 5px #aaaaaa;
+
+
+
+}
+
+.barcode{
+
+    height: 17.5rem;
+
+    border-radius: 3%;
+    margin-bottom: 1.25rem;
+
+}
+
+p{
+  font-size: 15px;
+  font-weight: 400;
+  display: inline-block;
+  margin: auto 30px;
+  color: hsl(220, 15%, 55%);
+}
+
+h3{
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+  display: inline-block;
+  margin: auto 40px;
+  margin-bottom: 20px;
+
+}
+
+.attribution{
+  position: relative;
+  /*bottom: 10px;
+  left: 100px;
+  right: 100px;*/
+  margin-top: 50px;
+
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
