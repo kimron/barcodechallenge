@@ -40,14 +40,14 @@ body{
 
 p{
   font-size: 15px;
-  font-weight: 400;
+  /*font-weight: 400;*/
   display: inline-block;
   margin: auto 30px;
   color: hsl(220, 15%, 55%);
 }
 
 h3{
-  font-weight: 700;
+  /*font-weight: 700;*/
   color: hsl(218, 44%, 22%);
   display: inline-block;
   margin: auto 40px;
@@ -56,11 +56,11 @@ h3{
 }
 
 .attribution{
-  position: relative;
+  text-align: center;
   /*bottom: 10px;
   left: 100px;
   right: 100px;*/
-  margin-top: 50px;
+  
 
 }
 
